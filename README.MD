@@ -1,4 +1,4 @@
-# PayUMoney-Gateway-Integration-CodeIgniter3
+# PayUMoney-Gateway-Integration-CodeIgniter 3.1.5
 <div style="line-height:3rem">
 	<h6>Quick steps to integrate to your web/app on the go!</h6>
 	<ol>
@@ -7,7 +7,6 @@
 		<li> Copy<code>Welcome.php</code>, <code>Status.php</code>controller files in<code>applications/controllers/</code>directory</li>
 		<li> Copy<code>product_form.php.php</code>, <code>confirmation.php</code>, <code>success.php</code>, <code>failure.php</code>view files in<code>applications/views/</code>directory</li>
 		<li> Customize the controller logic according to your web/app. </li>
-
 	</ol>	
 </div>
 
