@@ -23,6 +23,6 @@
 <div class="card-footer">
 	<h6><strong>Changelogs</strong></h6>
 	<ol>
-		<li>**15th May, 2019** - Updated from<code>3.1.5</code> to<code>3.1.10</code></li>
+		<li><b>15th May, 2019</b> - Updated from<code>3.1.5</code> to<code>3.1.10</code></li>
 	</ol>
 </div>
