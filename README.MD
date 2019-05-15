@@ -1,4 +1,4 @@
-# PayUMoney-Gateway-Integration-CodeIgniter 3.1.5
+# PayUMoney-Gateway-Integration-CodeIgniter 3.1.10
 <div style="line-height:3rem">
 	<h6>Quick steps to integrate to your web/app on the go!</h6>
 	<ol>
@@ -17,5 +17,12 @@
 		<li><em>Welcome.php/check</em> Method -  Check all parameters required for transaction and generates sha hash and display the confirmation.php view page.</li>
 		<li><em>Welcome.php/help</em> Method - Displays the quick integration help page.</li>
 		<li><em>Status.php</em> Controller - Process the result and display success, failure page according to the transaction.</li>
+	</ol>
+</div>
+
+<div class="card-footer">
+	<h6><strong>Changelogs</strong></h6>
+	<ol>
+		<li>**15th May, 2019** - Updated from<code>3.1.5</code> to<code>3.1.10</code></li>
 	</ol>
 </div>
